@@ -1,0 +1,134 @@
+[ 
+	{
+    "image":"images/cheap.png",
+    "kanji": "安、安い",
+    "yomi": "①あん,②やす(い)", 
+    "meaning": "①relaxation and comfort,②easy, cheap",
+    "examples": "安易(あんい)...simplicity、安心(あんしん)...peace of mind、安い(やすい)...cheap",
+    "sentence": "・この本は、とても安い。・安心してください。"
+  },
+  {
+      "image":"images/two.png",
+      "kanji": "二",
+      "yomi": "①に,②ふた(つ)",
+      "meaning": "two",
+      "examples": "二つ(ふたつ)...two、二人(ふたり)...two people、二ひき...2 (when you count animals we use 'hiki' in Japanese",
+      "sentence": "・これ二つください・何名様ですか。- 二人です。"
+    },
+    {
+      "image":"images/pp.png",
+      "kanji": "三",
+      "yomi": "①さん,②みっ(つ)",
+      "meaning": "three",
+      "examples": "三つ(みっつ)...three、三日(みっか)...three days",
+      "sentence": "私は、三日間何も食べていません。"
+    },
+    {
+      "image":"images/pp.png",
+      "kanji": "白",
+      "yomi": "①はく,②しろ",
+      "meaning": "white",
+      "examples": "白い(しろい)...white、白紙(はくし)...blank paper",
+      "sentence": "あの白くまは、とてもかわいい"
+    },
+    {
+      "image":"images/pp.png",
+      "kanji": "山",
+      "yomi": "①さん,②やま",
+      "meaning": "mountain",
+      "examples": "山(やま)...mountain、山田(やまだ)...Yamada (a common surname)",
+      "sentence": "私は、海よりも山が好きだ"
+    },
+    {
+      "image":"images/pp.png",
+      "kanji": "川",
+      "yomi": "かわ,せん",
+      "meaning": "river",
+      "examples": "川(かわ)...river、川口(かわぐち)...city name in saitama prefecture, japanese surname",
+      "sentence": "川に行きたい"
+    },
+    {
+      "image":"images/sun.png",
+      "kanji": "日",
+      "yomi": "ひ、にち",
+      "meaning": "day, sun",
+      "examples": "今日(きょう)...today, 日本(にほん)...Japan, 毎日(まいにち)...every day",
+      "sentence": "日曜日に公園に行きます。"
+    },
+    {
+      "image":"images/moon.png",
+      "kanji": "月",
+      "yomi": "つき、がつ",
+      "meaning": "moon, month",
+      "examples": "月曜日(げつようび)...Monday, 一ヶ月(いっかげつ)...one month, 月見(つきみ)...moon viewing",
+      "sentence": "今月の予定は何ですか？"
+    },
+    {
+      "image":"images/water.png",
+      "kanji": "水",
+      "yomi": "みず、すい",
+      "meaning": "water",
+      "examples": "水曜日(すいようび)...Wednesday, 水道(すいどう)...water supply, 水色(みずいろ)...light blue",
+      "sentence": "この水は飲んでも安全です。"
+    },
+    {
+      "image":"images/fire.png",
+      "kanji": "火",
+      "yomi": "ひ、か",
+      "meaning": "fire",
+      "examples": "火曜日(かようび)...Tuesday, 火事(かじ)...fire, 火山(かざん)...volcano",
+      "sentence": "火を消してください。"
+    },
+    {
+      "image":"images/tree.png",
+      "kanji": "木",
+      "yomi": "き、もく",
+      "meaning": "tree, wood",
+      "examples": "木曜日(もくようび)...Thursday, 木材(もくざい)...wood material, 木の実(きのみ)...nuts",
+      "sentence": "公園にはたくさんの木があります。"
+    },
+    {
+      "image":"images/child.png",
+      "kanji": "子",
+      "yomi": "こ、し",
+      "meaning": "child",
+      "examples": "子供(こども)...child, 子犬(こいぬ)...puppy, 子孫(しそん)...descendant",
+      "sentence": "子供の笑顔が好きです。"
+    },
+    {
+      "image":"images/mouth.png",
+      "kanji": "口",
+      "yomi": "くち、こう",
+      "meaning": "mouth",
+      "examples": "口紅(くちべに)...lipstick, 口説く(くどく)...to persuade, 口止め(くちとめ)...silence, hush money",
+      "sentence": "口を開けて言ってください。"
+    },
+    {
+      "image":"images/hand.png",
+      "kanji": "手",
+      "yomi": "て、しゅ",
+      "meaning": "hand",
+      "examples": "手紙(てがみ)...letter, 手袋(てぶくろ)...gloves, 手洗い(てあらい)...washroom",
+      "sentence": "手を洗いましょう。"
+    },
+    {
+      "image":"images/ear.png",
+      "kanji": "耳",
+      "yomi": "みみ、じ",
+      "meaning": "ear",
+      "examples": "耳鼻科(じびか)...otolaryngology (ENT), 耳打ち(みみうち)...whisper, 耳元(みみもと)...one's ear",
+      "sentence": "耳が痛いです。"
+    },
+    {
+      "image":"images/eye.png",
+      "kanji": "目",
+      "yomi": "め、もく",
+      "meaning": "eye",
+      "examples": "目的(もくてき)...purpose, 目覚まし時計(めざましどけい)...alarm clock, 目立つ(めだつ)...to stand out",
+      "sentence": "彼の目は美しいです。"
+    }
+  
+]
+		
+
+		
