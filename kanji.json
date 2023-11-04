@@ -166,6 +166,86 @@
       "meaning": "fish",
       "examples": "魚市場(さかないちば)...fish market, 魚料理(さかなりょうり)...fish dish, 魚釣り(さかなつり)...fishing",
       "sentence": "新鮮な魚が好きです。"
+    },
+    {
+      "image":"images/car.png",
+      "kanji": "車",
+      "yomi": "くるま、しゃ",
+      "meaning": "car, vehicle",
+      "examples": "自動車(じどうしゃ)...automobile, 電車(でんしゃ)...train, 乗り物(のりもの)...vehicle",
+      "sentence": "車で旅行するのが好きです。"
+    },
+    {
+      "image":"images/flower.png",
+      "kanji": "花",
+      "yomi": "はな、か",
+      "meaning": "flower",
+      "examples": "花見(はなみ)...flower viewing, 花瓶(かびん)...vase, 野菜(やさい)...vegetable",
+      "sentence": "春の花が美しいです。"
+    },
+    {
+      "image":"images/bird.png",
+      "kanji": "鳥",
+      "yomi": "とり、ちょう",
+      "meaning": "bird",
+      "examples": "鳥肉(とりにく)...chicken meat, 鳥かご(とりかご)...birdcage, 鳥の鳴き声(とりのなきごえ)...birdsong",
+      "sentence": "公園で鳥を見ることができます。"
+    },
+    {
+      "image":"images/river.png",
+      "kanji": "川",
+      "yomi": "かわ、せん",
+      "meaning": "river",
+      "examples": "川辺(かわべ)...riverbank, 川下(かわした)...downstream, 川釣り(かわつり)...river fishing",
+      "sentence": "川で釣りをしましょう。"
+    },
+    {
+      "image":"images/mountain.png",
+      "kanji": "山",
+      "yomi": "やま、さん",
+      "meaning": "mountain",
+      "examples": "山登り(やまのぼり)...mountain climbing, 山頂(さんちょう)...mountain top, 山道(やまみち)...mountain path",
+      "sentence": "週末に山に登ります。"
+    },
+    {
+      "image":"images/river.png",
+      "kanji": "川",
+      "yomi": "かわ、せん",
+      "meaning": "river",
+      "examples": "川辺(かわべ)...riverbank, 川下(かわした)...downstream, 川釣り(かわつり)...river fishing",
+      "sentence": "川で釣りをしましょう。"
+    },
+    {
+      "image":"images/bag.png",
+      "kanji": "袋",
+      "yomi": "ふくろ",
+      "meaning": "bag",
+      "examples": "紙袋(かみぶくろ)...paper bag, 買い物袋(かいものぶくろ)...shopping bag, 手提げ袋(てさげぶくろ)...handbag",
+      "sentence": "買い物袋を持って行きます。"
+    },
+    {
+      "image":"images/bridge.png",
+      "kanji": "橋",
+      "yomi": "はし",
+      "meaning": "bridge",
+      "examples": "歩行者橋(ほこうしゃきょう)...pedestrian bridge, 鉄橋(てっきょう)...iron bridge, 橋を渡る(はしをわたる)...to cross a bridge",
+      "sentence": "この橋は美しいデザインです。"
+    },
+    {
+      "image":"images/sun.png",
+      "kanji": "明",
+      "yomi": "あか、めい、みょう",
+      "meaning": "bright, clear",
+      "examples": "明るい(あかるい)...bright, 明日(あした)...tomorrow, 明後日(あさって)...day after tomorrow",
+      "sentence": "明るい日差しの下で歩くのが好きです。"
+    },
+    {
+      "image":"images/star.png",
+      "kanji": "星",
+      "yomi": "ほし、せい",
+      "meaning": "star",
+      "examples": "星座(せいざ)...constellation, 星空(ほしぞら)...starry sky, 星占い(ほしうらない)...astrology",
+      "sentence": "夜空にはたくさんの星が輝いています。"
     }
 ]
 		
