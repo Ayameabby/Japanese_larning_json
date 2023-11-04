@@ -8,7 +8,7 @@
     "sentence": "・この本は、とても安い。・安心してください。"
   },
   {
-      "image":"images/two.png",
+      "image":"images/candy.png",
       "kanji": "二",
       "yomi": "①に,②ふた(つ)",
       "meaning": "two",
@@ -16,7 +16,7 @@
       "sentence": "・これ二つください・何名様ですか。- 二人です。"
     },
     {
-      "image":"images/pp.png",
+      "image":"images/cheese_candy.png",
       "kanji": "三",
       "yomi": "①さん,②みっ(つ)",
       "meaning": "three",
