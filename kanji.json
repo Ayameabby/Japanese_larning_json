@@ -12,8 +12,8 @@
       "kanji": "二",
       "yomi": "①に,②ふた(つ)",
       "meaning": "two",
-      "examples": "二つ(ふたつ)...two、二人(ふたり)...two people、二ひき...2 (when you count animals we use 'hiki' in Japanese",
-      "sentence": "・これ二つください・何名様ですか。- 二人です。"
+      "examples": "二つ(ふたつ)...two、二人(ふたり)...two people、二ひき...2 (when you count animals we use 'hiki' in Japanese)",
+      "sentence": "これ二つください。"
     },
     {
       "image":"images/cheese_candy.png",
@@ -91,7 +91,7 @@
       "image":"images/child.png",
       "kanji": "子",
       "yomi": "こ、し",
-      "meaning": "child",
+      "meaning": "child,kids",
       "examples": "子供(こども)...child, 子犬(こいぬ)...puppy, 子孫(しそん)...descendant",
       "sentence": "子供の笑顔が好きです。"
     },
