@@ -207,14 +207,7 @@
       "examples": "山登り(やまのぼり)...mountain climbing, 山頂(さんちょう)...mountain top, 山道(やまみち)...mountain path",
       "sentence": "週末に山に登ります。"
     },
-    {
-      "image":"images/river.png",
-      "kanji": "川",
-      "yomi": "かわ、せん",
-      "meaning": "river",
-      "examples": "川辺(かわべ)...riverbank, 川下(かわした)...downstream, 川釣り(かわつり)...river fishing",
-      "sentence": "川で釣りをしましょう。"
-    },
+   
     {
       "image":"images/bag.png",
       "kanji": "袋",
