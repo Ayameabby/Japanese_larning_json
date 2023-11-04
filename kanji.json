@@ -126,8 +126,47 @@
       "meaning": "eye",
       "examples": "目的(もくてき)...purpose, 目覚まし時計(めざましどけい)...alarm clock, 目立つ(めだつ)...to stand out",
       "sentence": "彼の目は美しいです。"
+    },
+    {
+      "image":"images/person.png",
+      "kanji": "人",
+      "yomi": "ひと、じん",
+      "meaning": "person",
+      "examples": "人間(にんげん)...human, 人口(じんこう)...population, 人気(にんき)...popularity",
+      "sentence": "たくさんの人が集まりました。"
+    },
+    {
+      "image":"images/big.png",
+      "kanji": "大",
+      "yomi": "おお、だい",
+      "meaning": "big, large",
+      "examples": "大きい(おおきい)...big, 大学(だいがく)...university, 大好き(だいすき)...love (something very much)",
+      "sentence": "この山はとても大きいです。"
+    },
+    {
+      "image":"images/small.png",
+      "kanji": "小",
+      "yomi": "ちい、しょう",
+      "meaning": "small",
+      "examples": "小さい(ちいさい)...small, 小学校(しょうがっこう)...elementary school, 小説(しょうせつ)...novel",
+      "sentence": "この犬は小さくて可愛いです。"
+    },
+    {
+      "image":"images/field.png",
+      "kanji": "田",
+      "yomi": "た",
+      "meaning": "field, rice paddy",
+      "examples": "田んぼ(たんぼ)...rice paddy, 田舎(いなか)...countryside, 田畑(たはた)...fields",
+      "sentence": "日本には美しい田んぼがたくさんあります。"
+    },
+    {
+      "image":"images/fish.png",
+      "kanji": "魚",
+      "yomi": "さかな、ぎょ",
+      "meaning": "fish",
+      "examples": "魚市場(さかないちば)...fish market, 魚料理(さかなりょうり)...fish dish, 魚釣り(さかなつり)...fishing",
+      "sentence": "新鮮な魚が好きです。"
     }
-  
 ]
 		
 
