@@ -1,0 +1,156 @@
+[
+    {
+        "question": "両",
+        "answers": [
+            { "text": "両人", "correct": false },
+            { "text": "両親", "correct": true },
+            { "text": "両外", "correct": false },
+            { "text": "両解", "correct": false }
+        ]
+    },
+    {
+        "question": "予",
+        "answers": [
+            { "text": "予中", "correct": false },
+            { "text": "予時", "correct": false },
+            { "text": "予日", "correct": false },
+            { "text": "予告", "correct": true }
+        ]
+    },
+    {
+        "question": "争",
+        "answers": [
+            { "text": "論争", "correct": true },
+            { "text": "争備", "correct": false },
+            { "text": "争定", "correct": false },
+            { "text": "争価", "correct": false }
+        ]
+    },
+    {
+        "question": "交",
+        "answers": [
+            { "text": "交校", "correct": false },
+            { "text": "交換", "correct": true },
+            { "text": "交門", "correct": false },
+            { "text": "交程", "correct": false }
+        ]
+    },
+    {
+        "question": "他",
+        "answers": [
+            { "text": "他応", "correct": false },
+            { "text": "多他", "correct": false },
+            { "text": "他人", "correct": true },
+            { "text": "他様", "correct": false }
+        ]
+    },
+    {
+        "question": "付",
+        "answers": [
+            { "text": "付日", "correct": false },
+            { "text": "付近", "correct": true },
+            { "text": "付花", "correct": false },
+            { "text": "付木", "correct": false }
+        ]
+    },
+    {
+        "question": "伝",
+        "answers": [
+            { "text": "伝葉", "correct": false },
+            { "text": "伝風", "correct": false },
+            { "text": "伝川", "correct": false },
+            { "text": "伝言", "correct": true }
+        ]
+    },
+    {
+        "question": "位",
+        "answers": [
+            { "text": "位火", "correct": false },
+            { "text": "位空", "correct": false },
+            { "text": "位相", "correct": true },
+            { "text": "位岩", "correct": false }
+        ]
+    },
+    {
+        "question": "係",
+        "answers": [
+            { "text": "係累", "correct": true },
+            { "text": "係水", "correct": false },
+            { "text": "係星", "correct": false },
+            { "text": "係月", "correct": false }
+        ]
+    },
+    {
+        "question": "信",
+        "answers": [
+            { "text": "信花", "correct": false },
+            { "text": "信号", "correct": true },
+            { "text": "信山", "correct": false },
+            { "text": "信風", "correct": false }
+        ]
+    },
+    {
+        "question": "側",
+        "answers": [
+            { "text": "側外", "correct": false },
+            { "text": "側面", "correct": true },
+            { "text": "側月", "correct": false },
+            { "text": "側風", "correct": false }
+        ]
+    },
+    {
+        "question": "全",
+        "answers": [
+            { "text": "全水", "correct": false },
+            { "text": "全山", "correct": false },
+            { "text": "全国", "correct": true },
+            { "text": "全花", "correct": false }
+        ]
+    },
+    {
+        "question": "内",
+        "answers": [
+            { "text": "内火", "correct": false },
+            { "text": "内風", "correct": false },
+            { "text": "内川", "correct": false },
+            { "text": "内緒", "correct": true }
+        ]
+    },
+    {
+        "question": "冷",
+        "answers": [
+            { "text": "冷日", "correct": false },
+            { "text": "冷海", "correct": false },
+            { "text": "冷野菜", "correct": false },
+            { "text": "冷蔵", "correct": true }
+        ]
+    },
+    {
+        "question": "初",
+        "answers": [
+            { "text": "初単", "correct": false },
+            { "text": "初歩", "correct": true },
+            { "text": "初海", "correct": false },
+            { "text": "初花", "correct": false }
+        ]
+    },
+    {
+        "question": "利",
+        "answers": [
+            { "text": "利火", "correct": false },
+            { "text": "利用", "correct": true },
+            { "text": "利山", "correct": false },
+            { "text": "利川", "correct": false }
+        ]
+    },
+    {
+        "question": "加",
+        "answers": [
+            { "text": "加多", "correct": false },
+            { "text": "加算", "correct": true },
+            { "text": "加泥", "correct": false },
+            { "text": "加川", "correct": false }
+        ]
+    }
+    
+]
