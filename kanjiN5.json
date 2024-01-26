@@ -1,0 +1,271 @@
+[ 
+	{
+    "image":"../images/cheap.png",
+    "kanji": "安、安い",
+    "yomi": "①あん,②やす(い)", 
+    "meaning": "①relaxation and comfort,②easy, cheap",
+    "examples": "安易(あんい)...simplicity、安心(あんしん)...peace of mind、安い(やすい)...cheap",
+    "sentence": "・この本は、とても安い。・安心してください。"
+  },
+  {
+      "image":"../images/candy.png",
+      "kanji": "二",
+      "yomi": "①に,②ふた(つ)",
+      "meaning": "two",
+      "examples": "二つ(ふたつ)...two、二人(ふたり)...two people、二ひき...2 (when you count animals we use 'hiki' in Japanese)",
+      "sentence": "これ二つください。"
+    },
+    {
+      "image":"../images/cheese_candy.png",
+      "kanji": "三",
+      "yomi": "①さん,②みっ(つ)",
+      "meaning": "three",
+      "examples": "三つ(みっつ)...three、三日(みっか)...three days",
+      "sentence": "私は、三日間何も食べていません。"
+    },
+    {
+      "image":"../images/pp.png",
+      "kanji": "白",
+      "yomi": "①はく,②しろ",
+      "meaning": "white",
+      "examples": "白い(しろい)...white、白紙(はくし)...blank paper",
+      "sentence": "あの白くまは、とてもかわいい"
+    },
+    {
+      "image":"images/mountain.png",
+      "kanji": "山",
+      "yomi": "①さん,②やま",
+      "meaning": "mountain",
+      "examples": "山(やま)...mountain、山田(やまだ)...Yamada (a common surname)",
+      "sentence": "私は、海よりも山が好きだ"
+    },
+    {
+      "image":"images/kawa.png",
+      "kanji": "川",
+      "yomi": "かわ,せん",
+      "meaning": "river",
+      "examples": "川(かわ)...river、川口(かわぐち)...city name in saitama prefecture, japanese surname",
+      "sentence": "川に行きたい"
+    },
+    {
+      "image":"images/sun.png",
+      "kanji": "日",
+      "yomi": "ひ、にち",
+      "meaning": "day, sun",
+      "examples": "今日(きょう)...today, 日本(にほん)...Japan, 毎日(まいにち)...every day",
+      "sentence": "日曜日に公園に行きます。"
+    },
+    {
+      "image":"images/moon.png",
+      "kanji": "月",
+      "yomi": "つき、がつ",
+      "meaning": "moon, month",
+      "examples": "月曜日(げつようび)...Monday, 一ヶ月(いっかげつ)...one month, 月見(つきみ)...moon viewing",
+      "sentence": "今月の予定は何ですか？"
+    },
+    {
+      "image":"images/water.png",
+      "kanji": "水",
+      "yomi": "みず、すい",
+      "meaning": "water",
+      "examples": "水曜日(すいようび)...Wednesday, 水道(すいどう)...water supply, 水色(みずいろ)...light blue",
+      "sentence": "この水は飲んでも安全です。"
+    },
+    {
+      "image":"images/fire.png",
+      "kanji": "火",
+      "yomi": "ひ、か",
+      "meaning": "fire",
+      "examples": "火曜日(かようび)...Tuesday, 火事(かじ)...fire, 火山(かざん)...volcano",
+      "sentence": "火を消してください。"
+    },
+    {
+      "image":"images/tree.png",
+      "kanji": "木",
+      "yomi": "き、もく",
+      "meaning": "tree, wood",
+      "examples": "木曜日(もくようび)...Thursday, 木材(もくざい)...wood material, 木の実(きのみ)...nuts",
+      "sentence": "公園にはたくさんの木があります。"
+    },
+    {
+      "image":"images/child.png",
+      "kanji": "子",
+      "yomi": "こ、し",
+      "meaning": "child,kids",
+      "examples": "子供(こども)...child, 子犬(こいぬ)...puppy, 子孫(しそん)...descendant",
+      "sentence": "子供の笑顔が好きです。"
+    },
+    {
+      "image":"images/mouth.png",
+      "kanji": "口",
+      "yomi": "くち、こう",
+      "meaning": "mouth",
+      "examples": "口紅(くちべに)...lipstick, 口説く(くどく)...to persuade, 口止め(くちとめ)...silence, hush money",
+      "sentence": "口を開けて言ってください。"
+    },
+    {
+      "image":"images/hand.png",
+      "kanji": "手",
+      "yomi": "て、しゅ",
+      "meaning": "hand",
+      "examples": "手紙(てがみ)...letter, 手袋(てぶくろ)...gloves, 手洗い(てあらい)...washroom",
+      "sentence": "手を洗いましょう。"
+    },
+    {
+      "image":"images/ear.png",
+      "kanji": "耳",
+      "yomi": "みみ、じ",
+      "meaning": "ear",
+      "examples": "耳鼻科(じびか)...otolaryngology (ENT), 耳打ち(みみうち)...whisper, 耳元(みみもと)...one's ear",
+      "sentence": "耳が痛いです。"
+    },
+    {
+      "image":"images/eye.png",
+      "kanji": "目",
+      "yomi": "め、もく",
+      "meaning": "eye",
+      "examples": "目的(もくてき)...purpose, 目覚まし時計(めざましどけい)...alarm clock, 目立つ(めだつ)...to stand out",
+      "sentence": "彼の目は美しいです。"
+    },
+    {
+      "image":"images/person.png",
+      "kanji": "人",
+      "yomi": "ひと、じん",
+      "meaning": "person",
+      "examples": "人間(にんげん)...human, 人口(じんこう)...population, 人気(にんき)...popularity",
+      "sentence": "たくさんの人が集まりました。"
+    },
+    {
+      "image":"images/big.png",
+      "kanji": "大",
+      "yomi": "おお、だい",
+      "meaning": "big, large",
+      "examples": "大きい(おおきい)...big, 大学(だいがく)...university, 大好き(だいすき)...love (something very much)",
+      "sentence": "この山はとても大きいです。"
+    },
+    {
+      "image":"images/small.png",
+      "kanji": "小",
+      "yomi": "ちい、しょう",
+      "meaning": "small",
+      "examples": "小さい(ちいさい)...small, 小学校(しょうがっこう)...elementary school, 小説(しょうせつ)...novel",
+      "sentence": "この犬は小さくて可愛いです。"
+    },
+    {
+      "image":"images/field.png",
+      "kanji": "田",
+      "yomi": "た",
+      "meaning": "field, rice paddy",
+      "examples": "田んぼ(たんぼ)...rice paddy, 田舎(いなか)...countryside, 田畑(たはた)...fields",
+      "sentence": "日本には美しい田んぼがたくさんあります。"
+    },
+    {
+      "image":"images/fish.png",
+      "kanji": "魚",
+      "yomi": "さかな、ぎょ",
+      "meaning": "fish",
+      "examples": "魚市場(さかないちば)...fish market, 魚料理(さかなりょうり)...fish dish, 魚釣り(さかなつり)...fishing",
+      "sentence": "新鮮な魚が好きです。"
+    },
+    {
+      "image":"images/car.png",
+      "kanji": "車",
+      "yomi": "くるま、しゃ",
+      "meaning": "car, vehicle",
+      "examples": "自動車(じどうしゃ)...automobile, 電車(でんしゃ)...train, 乗り物(のりもの)...vehicle",
+      "sentence": "車で旅行するのが好きです。"
+    },
+    {
+      "image":"images/flower.png",
+      "kanji": "花",
+      "yomi": "はな、か",
+      "meaning": "flower",
+      "examples": "花見(はなみ)...flower viewing, 花瓶(かびん)...vase, 野菜(やさい)...vegetable",
+      "sentence": "春の花が美しいです。"
+    },
+    {
+      "image":"images/bird.png",
+      "kanji": "鳥",
+      "yomi": "とり、ちょう",
+      "meaning": "bird",
+      "examples": "鳥肉(とりにく)...chicken meat, 鳥かご(とりかご)...birdcage, 鳥の鳴き声(とりのなきごえ)...birdsong",
+      "sentence": "公園で鳥を見ることができます。"
+    },
+    
+   
+    {
+      "image":"images/bag.png",
+      "kanji": "袋",
+      "yomi": "ふくろ",
+      "meaning": "bag",
+      "examples": "紙袋(かみぶくろ)...paper bag, 買い物袋(かいものぶくろ)...shopping bag, 手提げ袋(てさげぶくろ)...handbag",
+      "sentence": "買い物袋を持って行きます。"
+    },
+    {
+      "image":"images/bridge.png",
+      "kanji": "橋",
+      "yomi": "はし",
+      "meaning": "bridge",
+      "examples": "歩行者橋(ほこうしゃきょう)...pedestrian bridge, 鉄橋(てっきょう)...iron bridge, 橋を渡る(はしをわたる)...to cross a bridge",
+      "sentence": "この橋は美しいデザインです。"
+    },
+    {
+      "image":"images/sun.png",
+      "kanji": "明",
+      "yomi": "あか、めい、みょう",
+      "meaning": "bright, clear",
+      "examples": "明るい(あかるい)...bright, 明日(あした)...tomorrow, 明後日(あさって)...day after tomorrow",
+      "sentence": "明るい日差しの下で歩くのが好きです。"
+    },
+    {
+      "image":"images/star.png",
+      "kanji": "星",
+      "yomi": "ほし、せい",
+      "meaning": "star",
+      "examples": "星座(せいざ)...constellation, 星空(ほしぞら)...starry sky, 星占い(ほしうらない)...astrology",
+      "sentence": "夜空にはたくさんの星が輝いています。"
+    },
+    {
+      "image": "images/ushi.png",
+      "kanji": "牛",
+      "yomi": "うし",
+      "meaning": "cow",
+      "examples": "牛乳(ぎゅうにゅう)...milk, 牛肉(ぎゅうにく)...beef, 牛丼(ぎゅうどん)...beef bowl",
+      "sentence": "牛は草を食べます。"
+    },
+    {
+      "image": "images/ki.png",
+      "kanji": "木",
+      "yomi": "き",
+      "meaning": "tree",
+      "examples": "木陰(こかげ)...shade of a tree, 木材(もくざい)...wood, 木造(もくぞう)...wooden construction",
+      "sentence": "公園に大きな木があります。"
+    },
+    {
+      "image": "images/ane.png",
+      "kanji": "姉",
+      "yomi": "あね",
+      "meaning": "older sister",
+      "examples": "姉妹(しまい)...sisters, 姉弟(きょうだい)...siblings (sister and brother), お姉さん(おねえさん)...(polite) older sister",
+      "sentence": "私の姉は医者です。"
+    },
+    {
+      "image": "images/te.png",
+      "kanji": "点",
+      "yomi": "てん",
+      "meaning": "point, dot",
+      "examples": "点数(てんすう)...score, 点線(てんせん)...dotted line, 点々(てんてん)...dots, spots",
+      "sentence": "この問題の点数はいくつですか。"
+    },
+    {
+      "image": "images/niku.png",
+      "kanji": "肉",
+      "yomi": "にく",
+      "meaning": "meat",
+      "examples": "肉料理(にくりょうり)...meat dish, 豚肉(ぶたにく)...pork, 牛肉(ぎゅうにく)...beef",
+      "sentence": "好きな肉は何ですか。"
+    }
+]
+		
+
+		
