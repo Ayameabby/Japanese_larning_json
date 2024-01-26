@@ -224,6 +224,46 @@
       "meaning": "star",
       "examples": "星座(せいざ)...constellation, 星空(ほしぞら)...starry sky, 星占い(ほしうらない)...astrology",
       "sentence": "夜空にはたくさんの星が輝いています。"
+    },
+    {
+      "image": "images/ushi.png",
+      "kanji": "牛",
+      "yomi": "うし",
+      "meaning": "cow",
+      "examples": "牛乳(ぎゅうにゅう)...milk, 牛肉(ぎゅうにく)...beef, 牛丼(ぎゅうどん)...beef bowl",
+      "sentence": "牛は草を食べます。"
+    },
+    {
+      "image": "images/ki.png",
+      "kanji": "木",
+      "yomi": "き",
+      "meaning": "tree",
+      "examples": "木陰(こかげ)...shade of a tree, 木材(もくざい)...wood, 木造(もくぞう)...wooden construction",
+      "sentence": "公園に大きな木があります。"
+    },
+    {
+      "image": "images/ane.png",
+      "kanji": "姉",
+      "yomi": "あね",
+      "meaning": "older sister",
+      "examples": "姉妹(しまい)...sisters, 姉弟(きょうだい)...siblings (sister and brother), お姉さん(おねえさん)...(polite) older sister",
+      "sentence": "私の姉は医者です。"
+    },
+    {
+      "image": "images/te.png",
+      "kanji": "点",
+      "yomi": "てん",
+      "meaning": "point, dot",
+      "examples": "点数(てんすう)...score, 点線(てんせん)...dotted line, 点々(てんてん)...dots, spots",
+      "sentence": "この問題の点数はいくつですか。"
+    },
+    {
+      "image": "images/niku.png",
+      "kanji": "肉",
+      "yomi": "にく",
+      "meaning": "meat",
+      "examples": "肉料理(にくりょうり)...meat dish, 豚肉(ぶたにく)...pork, 牛肉(ぎゅうにく)...beef",
+      "sentence": "好きな肉は何ですか。"
     }
 ]
 		
