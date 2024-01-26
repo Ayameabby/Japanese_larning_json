@@ -32,7 +32,7 @@
       "sentence": "あの白くまは、とてもかわいい"
     },
     {
-      "image":"images/mountain.png",
+      "image":"../images/mountain.png",
       "kanji": "山",
       "yomi": "①さん,②やま",
       "meaning": "mountain",
@@ -40,7 +40,7 @@
       "sentence": "私は、海よりも山が好きだ"
     },
     {
-      "image":"images/kawa.png",
+      "image":"../images/kawa.png",
       "kanji": "川",
       "yomi": "かわ,せん",
       "meaning": "river",
@@ -48,7 +48,7 @@
       "sentence": "川に行きたい"
     },
     {
-      "image":"images/sun.png",
+      "image":"../images/sun.png",
       "kanji": "日",
       "yomi": "ひ、にち",
       "meaning": "day, sun",
@@ -56,7 +56,7 @@
       "sentence": "日曜日に公園に行きます。"
     },
     {
-      "image":"images/moon.png",
+      "image":"../images/moon.png",
       "kanji": "月",
       "yomi": "つき、がつ",
       "meaning": "moon, month",
@@ -64,7 +64,7 @@
       "sentence": "今月の予定は何ですか？"
     },
     {
-      "image":"images/water.png",
+      "image":"../images/water.png",
       "kanji": "水",
       "yomi": "みず、すい",
       "meaning": "water",
@@ -72,7 +72,7 @@
       "sentence": "この水は飲んでも安全です。"
     },
     {
-      "image":"images/fire.png",
+      "image":"../images/fire.png",
       "kanji": "火",
       "yomi": "ひ、か",
       "meaning": "fire",
@@ -80,7 +80,7 @@
       "sentence": "火を消してください。"
     },
     {
-      "image":"images/tree.png",
+      "image":"../images/tree.png",
       "kanji": "木",
       "yomi": "き、もく",
       "meaning": "tree, wood",
@@ -88,7 +88,7 @@
       "sentence": "公園にはたくさんの木があります。"
     },
     {
-      "image":"images/child.png",
+      "image":"../images/child.png",
       "kanji": "子",
       "yomi": "こ、し",
       "meaning": "child,kids",
@@ -96,7 +96,7 @@
       "sentence": "子供の笑顔が好きです。"
     },
     {
-      "image":"images/mouth.png",
+      "image":"../images/mouth.png",
       "kanji": "口",
       "yomi": "くち、こう",
       "meaning": "mouth",
@@ -104,7 +104,7 @@
       "sentence": "口を開けて言ってください。"
     },
     {
-      "image":"images/hand.png",
+      "image":"../images/hand.png",
       "kanji": "手",
       "yomi": "て、しゅ",
       "meaning": "hand",
@@ -112,7 +112,7 @@
       "sentence": "手を洗いましょう。"
     },
     {
-      "image":"images/ear.png",
+      "image":"../images/ear.png",
       "kanji": "耳",
       "yomi": "みみ、じ",
       "meaning": "ear",
@@ -120,7 +120,7 @@
       "sentence": "耳が痛いです。"
     },
     {
-      "image":"images/eye.png",
+      "image":"../images/eye.png",
       "kanji": "目",
       "yomi": "め、もく",
       "meaning": "eye",
@@ -128,7 +128,7 @@
       "sentence": "彼の目は美しいです。"
     },
     {
-      "image":"images/person.png",
+      "image":"../images/person.png",
       "kanji": "人",
       "yomi": "ひと、じん",
       "meaning": "person",
@@ -136,7 +136,7 @@
       "sentence": "たくさんの人が集まりました。"
     },
     {
-      "image":"images/big.png",
+      "image":"../images/big.png",
       "kanji": "大",
       "yomi": "おお、だい",
       "meaning": "big, large",
@@ -144,7 +144,7 @@
       "sentence": "この山はとても大きいです。"
     },
     {
-      "image":"images/small.png",
+      "image":"../images/small.png",
       "kanji": "小",
       "yomi": "ちい、しょう",
       "meaning": "small",
@@ -152,7 +152,7 @@
       "sentence": "この犬は小さくて可愛いです。"
     },
     {
-      "image":"images/field.png",
+      "image":"../images/field.png",
       "kanji": "田",
       "yomi": "た",
       "meaning": "field, rice paddy",
@@ -160,7 +160,7 @@
       "sentence": "日本には美しい田んぼがたくさんあります。"
     },
     {
-      "image":"images/fish.png",
+      "image":"../images/fish.png",
       "kanji": "魚",
       "yomi": "さかな、ぎょ",
       "meaning": "fish",
@@ -168,7 +168,7 @@
       "sentence": "新鮮な魚が好きです。"
     },
     {
-      "image":"images/car.png",
+      "image":"../images/car.png",
       "kanji": "車",
       "yomi": "くるま、しゃ",
       "meaning": "car, vehicle",
@@ -176,7 +176,7 @@
       "sentence": "車で旅行するのが好きです。"
     },
     {
-      "image":"images/flower.png",
+      "image":"../images/flower.png",
       "kanji": "花",
       "yomi": "はな、か",
       "meaning": "flower",
@@ -184,7 +184,7 @@
       "sentence": "春の花が美しいです。"
     },
     {
-      "image":"images/bird.png",
+      "image":"../images/bird.png",
       "kanji": "鳥",
       "yomi": "とり、ちょう",
       "meaning": "bird",
@@ -194,7 +194,7 @@
     
    
     {
-      "image":"images/bag.png",
+      "image":"../images/bag.png",
       "kanji": "袋",
       "yomi": "ふくろ",
       "meaning": "bag",
@@ -202,7 +202,7 @@
       "sentence": "買い物袋を持って行きます。"
     },
     {
-      "image":"images/bridge.png",
+      "image":"../images/bridge.png",
       "kanji": "橋",
       "yomi": "はし",
       "meaning": "bridge",
@@ -210,7 +210,7 @@
       "sentence": "この橋は美しいデザインです。"
     },
     {
-      "image":"images/sun.png",
+      "image":"../images/sun.png",
       "kanji": "明",
       "yomi": "あか、めい、みょう",
       "meaning": "bright, clear",
@@ -218,7 +218,7 @@
       "sentence": "明るい日差しの下で歩くのが好きです。"
     },
     {
-      "image":"images/star.png",
+      "image":"../images/star.png",
       "kanji": "星",
       "yomi": "ほし、せい",
       "meaning": "star",
@@ -226,7 +226,7 @@
       "sentence": "夜空にはたくさんの星が輝いています。"
     },
     {
-      "image": "images/ushi.png",
+      "image": "../images/ushi.png",
       "kanji": "牛",
       "yomi": "うし",
       "meaning": "cow",
@@ -234,7 +234,7 @@
       "sentence": "牛は草を食べます。"
     },
     {
-      "image": "images/ki.png",
+      "image": "../images/ki.png",
       "kanji": "木",
       "yomi": "き",
       "meaning": "tree",
@@ -242,7 +242,7 @@
       "sentence": "公園に大きな木があります。"
     },
     {
-      "image": "images/ane.png",
+      "image": "../images/ane.png",
       "kanji": "姉",
       "yomi": "あね",
       "meaning": "older sister",
@@ -250,7 +250,7 @@
       "sentence": "私の姉は医者です。"
     },
     {
-      "image": "images/te.png",
+      "image": "../images/te.png",
       "kanji": "点",
       "yomi": "てん",
       "meaning": "point, dot",
@@ -258,7 +258,7 @@
       "sentence": "この問題の点数はいくつですか。"
     },
     {
-      "image": "images/niku.png",
+      "image": "../images/niku.png",
       "kanji": "肉",
       "yomi": "にく",
       "meaning": "meat",
