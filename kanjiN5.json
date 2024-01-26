@@ -1,28 +1,157 @@
 [ 
-	{
-    "image":"../images/cheap.png",
-    "kanji": "安、安い",
-    "yomi": "①あん,②やす(い)", 
-    "meaning": "①relaxation and comfort,②easy, cheap",
-    "examples": "安易(あんい)...simplicity、安心(あんしん)...peace of mind、安い(やすい)...cheap",
-    "sentence": "・この本は、とても安い。・安心してください。"
+	
+{
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fyogajournal.jp%2F19479&psig=AOvVaw14_ooP-knx84jTCdrBKAzh&ust=1706333542064000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJi7xfep-oMDFQAAAAAdAAAAABAD",
+    "kanji": "一",
+    "yomi": "いち",
+    "meaning": "one",
+    "examples": "一つ(ひとつ)...one, 一人(ひとり)...one person",
+    "sentence": "これは一つだけあります。"
   },
   {
-      "image":"../images/candy.png",
-      "kanji": "二",
-      "yomi": "①に,②ふた(つ)",
-      "meaning": "two",
-      "examples": "二つ(ふたつ)...two、二人(ふたり)...two people、二ひき...2 (when you count animals we use 'hiki' in Japanese)",
-      "sentence": "これ二つください。"
-    },
+    "image": "<image_link>",
+    "kanji": "二",
+    "yomi": "に、ふた(つ)",
+    "meaning": "two",
+    "examples": "二つ(ふたつ)...two, 二人(ふたり)...two people",
+    "sentence": "これ二つください。"
+  },
+  {
+    "image": "<image_link>",
+    "kanji": "三",
+    "yomi": "さん、みっ(つ)",
+    "meaning": "three",
+    "examples": "三つ(みっつ)...three, 三日(みっか)...three days",
+    "sentence": "私は、三日間何も食べていません。"
+  },
+  {
+    "image": "<image_link>",
+    "kanji": "四",
+    "yomi": "し、よん",
+    "meaning": "four",
+    "examples": "四つ(よっつ)...four, 四人(よにん)...four people",
+    "sentence": "彼は四つのリンゴを持っています。"
+  },
+  {
+    "image": "<image_link>",
+    "kanji": "五",
+    "yomi": "ご",
+    "meaning": "five",
+    "examples": "五つ(いつつ)...five, 五日(いつか)...five days",
+    "sentence": "私の家には五匹の猫がいます。"
+  },
+  {
+    "image": "<image_link>",
+    "kanji": "六",
+    "yomi": "ろく",
+    "meaning": "six",
+    "examples": "六つ(むっつ)...six, 六日(むいか)...six days",
+    "sentence": "彼女は六本の鉛筆を持っています。"
+  },
+  {
+    "image": "<image_link>",
+    "kanji": "七",
+    "yomi": "しち、なな",
+    "meaning": "seven",
+    "examples": "七つ(ななつ)...seven, 七日(なのか)...seven days",
+    "sentence": "彼は七人兄弟の末っ子です。"
+  },
+  {
+    "image": "<image_link>",
+    "kanji": "八",
+    "yomi": "はち",
+    "meaning": "eight",
+    "examples": "八つ(やっつ)...eight, 八百屋(やおや)...greengrocer",
+    "sentence": "この箱には八個のリンゴが入っています。"
+  },
+  {
+    "image": "<image_link>",
+    "kanji": "九",
+    "yomi": "きゅう、く、ここの、ここのつ",
+    "meaning": "nine",
+    "examples": "九つ(ここのつ)...nine, 九日(ここのか)...nine days",
+    "sentence": "彼は九人の友達と一緒にいます。"
+  },
+  {
+    "image": "<image_link>",
+    "kanji": "十",
+    "yomi": "じゅう、じっ、とお",
+    "meaning": "ten",
+    "examples": "十個(じゅっこ)...ten, 十日(とおか)...ten days",
+    "sentence": "彼は十歳の誕生日を迎えました。"
+  },
+  {
+    "image": "<image_link>",
+    "kanji": "百",
+    "yomi": "ひゃく",
+    "meaning": "hundred",
+    "examples": "百円(ひゃくえん)...one hundred yen, 百人(ひゃくにん)...one hundred people",
+    "sentence": "この本は百ページあります。"
+  },
+  {
+    "image": "<image_link>",
+    "kanji": "千",
+    "yomi": "せん",
+    "meaning": "thousand",
+    "examples": "千円(せんえん)...one thousand yen, 千人(せんにん)...one thousand people",
+    "sentence": "彼は千羽の鶴を折りました。"
+  },
+  {
+    "image": "<image_link>",
+    "kanji": "万",
+    "yomi": "まん",
+    "meaning": "ten thousand",
+    "examples": "万円(まんえん)...ten thousand yen, 万人(まんにん)...ten thousand people",
+    "sentence": "彼の夢は万人の笑顔を見ることです。"
+  },
+  {
+    "image": "<image_link>",
+    "kanji": "円",
+    "yomi": "えん",
+    "meaning": "yen",
+    "examples": "百円(ひゃくえん)...one hundred yen, 五千円(ごせんえん)...five thousand yen",
+    "sentence": "これは千円札です。"
+  },
+  {
+    "image": "<image_link>",
+    "kanji": "時",
+    "yomi": "じ",
+    "meaning": "time, hour",
+    "examples": "何時(なんじ)...what time, 一時(いちじ)...one o'clock",
+    "sentence": "今は何時ですか？"
+  },
+  {
+    "image": "<image_link>",
+    "kanji": "分",
+    "yomi": "ふん、ぷん",
+    "meaning": "minute",
+    "examples": "五分(ごふん)...five minutes, 十分(じゅっぷん)...ten minutes",
+    "sentence": "今は五分前です。"
+  },
+  {
+    "image": "<image_link>",
+    "kanji": "半",
+    "yomi": "はん",
+    "meaning": "half",
+    "examples": "三十分(さんじゅっぷん)...thirty minutes, 半分(はんぶん)...half",
+    "sentence": "これは半分だけ食べてください。"
+  },
+  {
+    "image": "<image_link>",
+    "kanji": "今",
+    "yomi": "いま、こん",
+    "meaning": "now",
+    "examples": "今日(きょう)...today, 今晩(こんばん)...tonight",
+    "sentence": "今は何時ですか？"
+  },
     {
-      "image":"../images/cheese_candy.png",
-      "kanji": "三",
-      "yomi": "①さん,②みっ(つ)",
-      "meaning": "three",
-      "examples": "三つ(みっつ)...three、三日(みっか)...three days",
-      "sentence": "私は、三日間何も食べていません。"
-    },
+        "image":"../images/cheap.png",
+        "kanji": "安、安い",
+        "yomi": "①あん,②やす(い)", 
+        "meaning": "①relaxation and comfort,②easy, cheap",
+        "examples": "安易(あんい)...simplicity、安心(あんしん)...peace of mind、安い(やすい)...cheap",
+        "sentence": "・この本は、とても安い。・安心してください。"
+      },
     {
       "image":"../images/pp.png",
       "kanji": "白",
