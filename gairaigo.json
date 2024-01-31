@@ -37,22 +37,86 @@
     },{
         "question": "レンジ",
         "answers": [
-            { "text": "hot kiss", "correct": false },
-            { "text": "kiss on a cheek", "correct": false },
-            { "text": "stapler", "correct": true },
-            { "text": "glue", "correct": false }
+            { "text": "refrigerator", "correct": false },
+            { "text": "iron", "correct": false },
+            { "text": "microwave", "correct": true },
+            { "text": "rice cooker", "correct": false }
         ]
     },
 
     {
         "question": "ペットボトル",
         "answers": [
-            { "text": "hot kiss", "correct": false },
-            { "text": "kiss on a cheek", "correct": false },
-            { "text": "stapler", "correct": true },
-            { "text": "glue", "correct": false }
+            { "text": "water bottle", "correct": false },
+            { "text": "plastic bottle", "correct": true },
+            { "text": "plastic bag", "correct": false },
+            { "text": "small bag", "correct": false }
+        ]
+    },
+    {
+        "question": "チャック",
+        "answers": [
+            { "text": "zipper", "correct": true},
+            { "text": "check", "correct": false },
+            { "text": "belt", "correct": true },
+            { "text": "shock", "correct": false }
+        ]
+    },
+    {
+        "question": "ワンピーズ",
+        "answers": [
+            { "text": "green pea", "correct": false},
+            { "text": "one pice", "correct": false },
+            { "text": "pose", "correct": false},
+            { "text": "dress", "correct": true }
+        ]
+    },
+    {
+        "question": "マニキュア",
+        "answers": [
+            { "text": "money", "correct": false},
+            { "text": "nail polish", "correct": true },
+            { "text": "", "correct": false},
+            { "text": "", "correct": true }
+        ]
+    },
+    {
+        "question": "ズボン",
+        "answers": [
+            { "text": "boots", "correct": true},
+            { "text": "underwear", "correct": false },
+            { "text": "T-shirts", "correct": false},
+            { "text": "pants", "correct": true }
+        ]
+    },
+    {
+        "question": "ワイシャツ",
+        "answers": [
+            { "text": "T-shirts", "correct": false},
+            { "text": "sweater", "correct": false },
+            { "text": "white shirts", "correct": true},
+            { "text": "long shirts", "correct": false }
+        ]
+    },
+    {
+        "question": "セーター",
+        "answers": [
+            { "text": "heater", "correct": false},
+            { "text": "sweater", "correct": true },
+            { "text": "waiter", "correct": false},
+            { "text": "scooter", "correct": false }
+        ]
+    },
+    {
+        "question": "リュックサック",
+        "answers": [
+            { "text": "backpack", "correct": true},
+            { "text": "shake shack", "correct": false },
+            { "text": "snacks", "correct": false},
+            { "text": "zigzag", "correct": false }
         ]
     }
+    
     
 
 ]
