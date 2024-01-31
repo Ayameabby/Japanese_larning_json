@@ -58,7 +58,7 @@
         "answers": [
             { "text": "zipper", "correct": true},
             { "text": "check", "correct": false },
-            { "text": "belt", "correct": true },
+            { "text": "belt", "correct": false },
             { "text": "shock", "correct": false }
         ]
     },
@@ -77,13 +77,13 @@
             { "text": "money", "correct": false},
             { "text": "nail polish", "correct": true },
             { "text": "", "correct": false},
-            { "text": "", "correct": true }
+            { "text": "", "correct": false }
         ]
     },
     {
         "question": "ズボン",
         "answers": [
-            { "text": "boots", "correct": true},
+            { "text": "boots", "correct": false},
             { "text": "underwear", "correct": false },
             { "text": "T-shirts", "correct": false},
             { "text": "pants", "correct": true }
