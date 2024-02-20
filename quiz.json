@@ -1,155 +1,155 @@
 [
     {
-        "question": "両",
+        "question": "一",
         "answers": [
-            { "text": "両人", "correct": false },
-            { "text": "両親", "correct": true },
-            { "text": "両外", "correct": false },
-            { "text": "両解", "correct": false }
+            { "text": "ひゃく", "correct": false },
+            { "text": "いち", "correct": true },
+            { "text": "よん", "correct": false },
+            { "text": "さん", "correct": false }
         ]
     },
     {
-        "question": "予",
+        "question": "二",
         "answers": [
-            { "text": "予中", "correct": false },
-            { "text": "予時", "correct": false },
-            { "text": "予日", "correct": false },
-            { "text": "予告", "correct": true }
+            { "text": "ご", "correct": false },
+            { "text": "ひゃく", "correct": false },
+            { "text": "いち", "correct": false },
+            { "text": "に", "correct": true }
         ]
     },
     {
-        "question": "争",
+        "question": "三",
         "answers": [
-            { "text": "論争", "correct": true },
-            { "text": "争備", "correct": false },
-            { "text": "争定", "correct": false },
-            { "text": "争価", "correct": false }
+            { "text": "さん", "correct": true },
+            { "text": "に", "correct": false },
+            { "text": "いち", "correct": false },
+            { "text": "よん", "correct": false }
         ]
     },
     {
-        "question": "交",
+        "question": "四",
         "answers": [
-            { "text": "交校", "correct": false },
-            { "text": "交換", "correct": true },
-            { "text": "交門", "correct": false },
-            { "text": "交程", "correct": false }
+            { "text": "ご", "correct": false },
+            { "text": "よん", "correct": true },
+            { "text": "さん", "correct": false },
+            { "text": "に", "correct": false }
         ]
     },
     {
-        "question": "他",
+        "question": "五",
         "answers": [
-            { "text": "他応", "correct": false },
-            { "text": "多他", "correct": false },
-            { "text": "他人", "correct": true },
-            { "text": "他様", "correct": false }
+            { "text": "に", "correct": false },
+            { "text": "いち", "correct": false },
+            { "text": "ご", "correct": true },
+            { "text": "ひゃく", "correct": false }
         ]
     },
     {
-        "question": "付",
+        "question": "六",
         "answers": [
-            { "text": "付日", "correct": false },
-            { "text": "付近", "correct": true },
-            { "text": "付花", "correct": false },
-            { "text": "付木", "correct": false }
+            { "text": "さん", "correct": false },
+            { "text": "ろく", "correct": true },
+            { "text": "に", "correct": false },
+            { "text": "よん", "correct": false }
         ]
     },
     {
-        "question": "伝",
+        "question": "七",
         "answers": [
-            { "text": "伝葉", "correct": false },
-            { "text": "伝風", "correct": false },
-            { "text": "伝川", "correct": false },
-            { "text": "伝言", "correct": true }
+            { "text": "に", "correct": false },
+            { "text": "よん", "correct": false },
+            { "text": "ろく", "correct": false },
+            { "text": "なな", "correct": true }
         ]
     },
     {
-        "question": "位",
+        "question": "八",
         "answers": [
-            { "text": "位火", "correct": false },
-            { "text": "位空", "correct": false },
-            { "text": "位相", "correct": true },
-            { "text": "位岩", "correct": false }
+            { "text": "に", "correct": false },
+            { "text": "なな", "correct": false },
+            { "text": "はち", "correct": true },
+            { "text": "きゅう", "correct": false }
         ]
     },
     {
-        "question": "係",
+        "question": "九",
         "answers": [
-            { "text": "係累", "correct": true },
-            { "text": "係水", "correct": false },
-            { "text": "係星", "correct": false },
-            { "text": "係月", "correct": false }
+            { "text": "きゅう", "correct": true },
+            { "text": "に", "correct": false },
+            { "text": "さん", "correct": false },
+            { "text": "ご", "correct": false }
         ]
     },
     {
-        "question": "信",
+        "question": "十",
         "answers": [
-            { "text": "信花", "correct": false },
-            { "text": "信号", "correct": true },
-            { "text": "信山", "correct": false },
-            { "text": "信風", "correct": false }
+            { "text": "に", "correct": false },
+            { "text": "じゅう", "correct": true },
+            { "text": "くろす", "correct": false },
+            { "text": "なな", "correct": false }
         ]
     },
     {
-        "question": "側",
+        "question": "百",
         "answers": [
-            { "text": "側外", "correct": false },
-            { "text": "側面", "correct": true },
-            { "text": "側月", "correct": false },
-            { "text": "側風", "correct": false }
+            { "text": "ご", "correct": false },
+            { "text": "ひゃく", "correct": true },
+            { "text": "せん", "correct": false },
+            { "text": "じゅう", "correct": false }
         ]
     },
     {
-        "question": "全",
+        "question": "千",
         "answers": [
-            { "text": "全水", "correct": false },
-            { "text": "全山", "correct": false },
-            { "text": "全国", "correct": true },
-            { "text": "全花", "correct": false }
+            { "text": "なな", "correct": false },
+            { "text": "じゅう", "correct": false },
+            { "text": "せん", "correct": true },
+            { "text": "ひゃく", "correct": false }
         ]
     },
     {
-        "question": "内",
+        "question": "万",
         "answers": [
-            { "text": "内火", "correct": false },
-            { "text": "内風", "correct": false },
-            { "text": "内川", "correct": false },
-            { "text": "内緒", "correct": true }
+            { "text": "きゅう", "correct": false },
+            { "text": "じゅう", "correct": false },
+            { "text": "まん", "correct": false },
+            { "text": "えん", "correct": true }
         ]
     },
     {
-        "question": "冷",
+        "question": "円",
         "answers": [
-            { "text": "冷日", "correct": false },
-            { "text": "冷海", "correct": false },
-            { "text": "冷野菜", "correct": false },
-            { "text": "冷蔵", "correct": true }
+            { "text": "よん", "correct": false },
+            { "text": "なな", "correct": false },
+            { "text": "はち", "correct": false },
+            { "text": "えん", "correct": true }
         ]
     },
     {
-        "question": "初",
+        "question": "時",
         "answers": [
-            { "text": "初単", "correct": false },
-            { "text": "初歩", "correct": true },
-            { "text": "初海", "correct": false },
-            { "text": "初花", "correct": false }
+            { "text": "ふん、ぶん", "correct": false },
+            { "text": "とき、じ", "correct": true },
+            { "text": "にち、ひ", "correct": false },
+            { "text": "てら、じ", "correct": false }
         ]
     },
     {
-        "question": "利",
+        "question": "分",
         "answers": [
-            { "text": "利火", "correct": false },
-            { "text": "利用", "correct": true },
-            { "text": "利山", "correct": false },
-            { "text": "利川", "correct": false }
+            { "text": "ひ、か", "correct": false },
+            { "text": "ふん、ぶん", "correct": true },
+            { "text": "とき、じ", "correct": false },
+            { "text": "ひ、にち", "correct": false }
         ]
     },
     {
-        "question": "加",
+        "question": "日",
         "answers": [
-            { "text": "加多", "correct": false },
-            { "text": "加算", "correct": true },
-            { "text": "加泥", "correct": false },
-            { "text": "加川", "correct": false }
+            { "text": "じ、ふん", "correct": false },
+            { "text": "にち、ひ", "correct": true },
+            { "text": "えん、まる", "correct": false },
+            { "text": "がい、そと", "correct": false }
         ]
     }
     
