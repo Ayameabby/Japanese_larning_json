@@ -1,0 +1,166 @@
+[
+    {
+        "question": "半",
+        "answers": [
+            { "text": "ひゃく", "correct": false },
+            { "text": "いち", "correct": true },
+            { "text": "よん", "correct": false },
+            { "text": "さん", "correct": false }
+        ]
+    },
+    {
+        "question": "今",
+        "answers": [
+            { "text": "ご", "correct": false },
+            { "text": "ひゃく", "correct": false },
+            { "text": "いち", "correct": false },
+            { "text": "に", "correct": true }
+        ]
+    },
+    {
+        "question": "安い",
+        "answers": [
+            { "text": "さん", "correct": true },
+            { "text": "に", "correct": false },
+            { "text": "いち", "correct": false },
+            { "text": "よん", "correct": false }
+        ]
+    },
+    {
+        "question": "白",
+        "answers": [
+            { "text": "ご", "correct": false },
+            { "text": "よん", "correct": true },
+            { "text": "さん", "correct": false },
+            { "text": "に", "correct": false }
+        ]
+    },
+    {
+        "question": "安",
+        "answers": [
+            { "text": "に", "correct": false },
+            { "text": "いち", "correct": false },
+            { "text": "ご", "correct": true },
+            { "text": "ひゃく", "correct": false }
+        ]
+    },
+    {
+        "question": "山",
+        "answers": [
+            { "text": "さん", "correct": false },
+            { "text": "ろく", "correct": true },
+            { "text": "に", "correct": false },
+            { "text": "よん", "correct": false }
+        ]
+    },
+    {
+        "question": "川",
+        "answers": [
+            { "text": "に", "correct": false },
+            { "text": "よん", "correct": false },
+            { "text": "ろく", "correct": false },
+            { "text": "なな", "correct": true }
+        ]
+    },
+    {
+        "question": "月",
+        "answers": [
+            { "text": "に", "correct": false },
+            { "text": "なな", "correct": false },
+            { "text": "はち", "correct": true },
+            { "text": "きゅう", "correct": false }
+        ]
+    },
+    {
+        "question": "水",
+        "answers": [
+            { "text": "きゅう", "correct": true },
+            { "text": "に", "correct": false },
+            { "text": "さん", "correct": false },
+            { "text": "ご", "correct": false }
+        ]
+    },
+    {
+        "question": "火",
+        "answers": [
+            { "text": "に", "correct": false },
+            { "text": "じゅう", "correct": true },
+            { "text": "くろす", "correct": false },
+            { "text": "なな", "correct": false }
+        ]
+    },
+    {
+        "question": "子",
+        "answers": [
+            { "text": "ご", "correct": false },
+            { "text": "ひゃく", "correct": true },
+            { "text": "せん", "correct": false },
+            { "text": "じゅう", "correct": false }
+        ]
+    },
+    {
+        "question": "口",
+        "answers": [
+            { "text": "なな", "correct": false },
+            { "text": "じゅう", "correct": false },
+            { "text": "せん", "correct": true },
+            { "text": "ひゃく", "correct": false }
+        ]
+    },
+    {
+        "question": "手",
+        "answers": [
+            { "text": "きゅう", "correct": false },
+            { "text": "じゅう", "correct": false },
+            { "text": "まん", "correct": false },
+            { "text": "えん", "correct": true }
+        ]
+    },
+    {
+        "question": "耳",
+        "answers": [
+            { "text": "よん", "correct": false },
+            { "text": "なな", "correct": false },
+            { "text": "はち", "correct": false },
+            { "text": "えん", "correct": true }
+        ]
+    },
+    {
+        "question": "目",
+        "answers": [
+            { "text": "ふん、ぶん", "correct": false },
+            { "text": "とき、じ", "correct": true },
+            { "text": "にち、ひ", "correct": false },
+            { "text": "てら、じ", "correct": false }
+        ]
+    },
+    {
+        "question": "人",
+        "answers": [
+            { "text": "ひ、か", "correct": false },
+            { "text": "ふん、ぶん", "correct": true },
+            { "text": "とき、じ", "correct": false },
+            { "text": "ひ、にち", "correct": false }
+        ]
+    },
+    {
+        "question": "大",
+        "answers": [
+            { "text": "じ、ふん", "correct": false },
+            { "text": "にち、ひ", "correct": true },
+            { "text": "えん、まる", "correct": false },
+            { "text": "がい、そと", "correct": false }
+        ]
+    },
+    {
+        "question": "小",
+        "answers": [
+            { "text": "じ、ふん", "correct": false },
+            { "text": "にち、ひ", "correct": true },
+            { "text": "えん、まる", "correct": false },
+            { "text": "がい、そと", "correct": false }
+        ]
+    }
+    
+    
+]
