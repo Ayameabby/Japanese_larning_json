@@ -30,8 +30,8 @@
         "question": "ジェットコースター",
         "answers": [
             { "text": "airplane", "correct": false },
-            { "text": "roller coaster", "correct": false },
-            { "text": "bus", "correct": true },
+            { "text": "roller coaster", "correct": true },
+            { "text": "bus", "correct": false },
             { "text": "train", "correct": false }
         ]
     },{
@@ -76,8 +76,8 @@
         "answers": [
             { "text": "money", "correct": false},
             { "text": "nail polish", "correct": true },
-            { "text": "", "correct": false},
-            { "text": "", "correct": false }
+            { "text": "money", "correct": false},
+            { "text": "medicine", "correct": false }
         ]
     },
     {
