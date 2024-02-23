@@ -63,7 +63,7 @@
         ]
     },
     {
-        "question": "ワンピーズ",
+        "question": "ワンピース",
         "answers": [
             { "text": "green pea", "correct": false},
             { "text": "one pice", "correct": false },
