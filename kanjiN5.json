@@ -1,7 +1,7 @@
 [ 
 	
 {
-    "image": "https://onwa-illust.com/wp-content/uploads/2022/01/one_number_01.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Eo_circle_blue_number-1.svg",
     "kanji": "一",
     "yomi": "いち",
     "meaning": "one",
@@ -33,7 +33,7 @@
     "sentence": "彼は四つのリンゴを持っています。"
   },
   {
-    "image": "https://www.edding.com/fileadmin/templates/templates-numbers/template-number-5.svg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Eo_circle_blue_number-5.svg",
     "kanji": "五",
     "yomi": "ご",
     "meaning": "five",
@@ -41,7 +41,7 @@
     "sentence": "私の家には五匹の猫がいます。"
   },
   {
-    "image": "<image_link>",
+    "image": "../images/6.jpg",
     "kanji": "六",
     "yomi": "ろく",
     "meaning": "six",
@@ -49,7 +49,7 @@
     "sentence": "彼女は六本の鉛筆を持っています。"
   },
   {
-    "image": "<image_link>",
+    "image": "../images/7.jpg",
     "kanji": "七",
     "yomi": "しち、なな",
     "meaning": "seven",
@@ -57,7 +57,7 @@
     "sentence": "彼は七人兄弟の末っ子です。"
   },
   {
-    "image": "<image_link>",
+    "image": "../images/8.jpg",
     "kanji": "八",
     "yomi": "はち",
     "meaning": "eight",
@@ -65,7 +65,7 @@
     "sentence": "この箱には八個のリンゴが入っています。"
   },
   {
-    "image": "<image_link>",
+    "image": "../images/9.jpg",
     "kanji": "九",
     "yomi": "きゅう、く、ここの、ここのつ",
     "meaning": "nine",
@@ -73,7 +73,7 @@
     "sentence": "彼は九人の友達と一緒にいます。"
   },
   {
-    "image": "<image_link>",
+    "image": "../images/10.jpg",
     "kanji": "十",
     "yomi": "じゅう、じっ、とお",
     "meaning": "ten",
@@ -81,7 +81,7 @@
     "sentence": "彼は十歳の誕生日を迎えました。"
   },
   {
-    "image": "<image_link>",
+    "image": "../images/100.jpg",
     "kanji": "百",
     "yomi": "ひゃく",
     "meaning": "hundred",
@@ -89,7 +89,7 @@
     "sentence": "この本は百ページあります。"
   },
   {
-    "image": "<image_link>",
+    "image": "../images/1000.jpg",
     "kanji": "千",
     "yomi": "せん",
     "meaning": "thousand",
@@ -97,7 +97,7 @@
     "sentence": "彼は千羽の鶴を折りました。"
   },
   {
-    "image": "<image_link>",
+    "image": "../images/million.jpg",
     "kanji": "万",
     "yomi": "まん",
     "meaning": "ten thousand",
@@ -105,7 +105,7 @@
     "sentence": "彼の夢は万人の笑顔を見ることです。"
   },
   {
-    "image": "<image_link>",
+    "image": "../images/yen.jpg",
     "kanji": "円",
     "yomi": "えん",
     "meaning": "yen",
@@ -113,7 +113,7 @@
     "sentence": "これは千円札です。"
   },
   {
-    "image": "<image_link>",
+    "image": "../images/time.jpg",
     "kanji": "時",
     "yomi": "じ",
     "meaning": "time, hour",
@@ -121,7 +121,7 @@
     "sentence": "今は何時ですか？"
   },
   {
-    "image": "<image_link>",
+    "image": "../images/time.jpg",
     "kanji": "分",
     "yomi": "ふん、ぷん",
     "meaning": "minute",
@@ -129,7 +129,7 @@
     "sentence": "今は五分前です。"
   },
   {
-    "image": "<image_link>",
+    "image": "https://woman.mynavi.jp/131124-056/61-01/",
     "kanji": "半",
     "yomi": "はん",
     "meaning": "half",
@@ -137,7 +137,7 @@
     "sentence": "これは半分だけ食べてください。"
   },
   {
-    "image": "<image_link>",
+    "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/nativecamp_official/20221221/20221221101952.png",
     "kanji": "今",
     "yomi": "いま、こん",
     "meaning": "now",
