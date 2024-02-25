@@ -112,8 +112,8 @@
         "answers": [
             { "text": "きゅう", "correct": false },
             { "text": "じゅう", "correct": false },
-            { "text": "まん", "correct": false },
-            { "text": "えん", "correct": true }
+            { "text": "まん", "correct": true },
+            { "text": "えん", "correct": false }
         ]
     },
     {
