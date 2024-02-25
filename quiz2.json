@@ -47,8 +47,8 @@
     {
         "question": "山",
         "answers": [
-            { "text": "さん、やま", "correct": false },
-            { "text": "ろく、さん", "correct": true },
+            { "text": "さん、やま", "correct": true },
+            { "text": "ろく、さん", "correct": false },
             { "text": "たに、こん", "correct": false },
             { "text": "ひ、にち", "correct": false }
         ]

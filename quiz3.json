@@ -2,8 +2,8 @@
     {
         "question": "田",
         "answers": [
-            { "text": "ひゃく", "correct": false },
-            { "text": "いち", "correct": true },
+            { "text": "た、でん", "correct": true },
+            { "text": "いち", "correct": false },
             { "text": "よん", "correct": false },
             { "text": "さん", "correct": false }
         ]
@@ -11,26 +11,26 @@
     {
         "question": "魚",
         "answers": [
-            { "text": "ご", "correct": false },
-            { "text": "ひゃく", "correct": false },
-            { "text": "いち", "correct": false },
-            { "text": "に", "correct": true }
+            { "text": "うみ、かい", "correct": false },
+            { "text": "とり", "correct": false },
+            { "text": "うし、ぎゅう", "correct": false },
+            { "text": "さかな、ぎょ", "correct": true }
         ]
     },
     {
         "question": "車",
         "answers": [
-            { "text": "さん", "correct": true },
-            { "text": "に", "correct": false },
-            { "text": "いち", "correct": false },
-            { "text": "よん", "correct": false }
+            { "text": "くるま、しゃ", "correct": true },
+            { "text": "いえ、か", "correct": false },
+            { "text": "ばいく", "correct": false },
+            { "text": "ひがし、とう", "correct": false }
         ]
     },
     {
         "question": "花",
         "answers": [
-            { "text": "ご", "correct": false },
-            { "text": "よん", "correct": true },
+            { "text": "くさ、そう", "correct": false },
+            { "text": "はな、か", "correct": true },
             { "text": "さん", "correct": false },
             { "text": "に", "correct": false }
         ]
@@ -38,73 +38,73 @@
     {
         "question": "鳥",
         "answers": [
-            { "text": "に", "correct": false },
-            { "text": "いち", "correct": false },
-            { "text": "ご", "correct": true },
-            { "text": "ひゃく", "correct": false }
+            { "text": "しま、とう", "correct": false },
+            { "text": "さかな、ぎょ", "correct": false },
+            { "text": "とり、ちょう", "correct": true },
+            { "text": "うみ、かい", "correct": false }
         ]
     },
     {
         "question": "袋",
         "answers": [
-            { "text": "さん", "correct": false },
-            { "text": "ろく", "correct": true },
-            { "text": "に", "correct": false },
-            { "text": "よん", "correct": false }
+            { "text": "ごみ", "correct": false },
+            { "text": "ふくろ", "correct": true },
+            { "text": "ふく", "correct": false },
+            { "text": "とり", "correct": false }
         ]
     },
     {
         "question": "橋",
         "answers": [
-            { "text": "に", "correct": false },
-            { "text": "よん", "correct": false },
-            { "text": "ろく", "correct": false },
-            { "text": "なな", "correct": true }
+            { "text": "た、でん", "correct": false },
+            { "text": "ひ、か", "correct": false },
+            { "text": "き、もく", "correct": false },
+            { "text": "はし、きょう", "correct": true }
         ]
     },
     {
         "question": "明",
         "answers": [
-            { "text": "に", "correct": false },
-            { "text": "なな", "correct": false },
-            { "text": "はち", "correct": true },
-            { "text": "きゅう", "correct": false }
+            { "text": "にち、げつ", "correct": false },
+            { "text": "つき、ひ", "correct": false },
+            { "text": "めい、あか(るい)", "correct": true },
+            { "text": "ひかり", "correct": false }
         ]
     },
     {
         "question": "星",
         "answers": [
-            { "text": "きゅう", "correct": true },
-            { "text": "に", "correct": false },
-            { "text": "さん", "correct": false },
-            { "text": "ご", "correct": false }
+            { "text": "ほし", "correct": true },
+            { "text": "すたー", "correct": false },
+            { "text": "ひ、せい", "correct": false },
+            { "text": "か、せい", "correct": false }
         ]
     },
     {
         "question": "牛",
         "answers": [
-            { "text": "に", "correct": false },
-            { "text": "じゅう", "correct": true },
-            { "text": "くろす", "correct": false },
-            { "text": "なな", "correct": false }
+            { "text": "ぶた、とん", "correct": false },
+            { "text": "うし、ぎゅう", "correct": true },
+            { "text": "ご", "correct": false },
+            { "text": "とり、ちょう", "correct": false }
         ]
     },
     {
         "question": "姉",
         "answers": [
-            { "text": "ご", "correct": false },
-            { "text": "ひゃく", "correct": true },
-            { "text": "せん", "correct": false },
-            { "text": "じゅう", "correct": false }
+            { "text": "いもうと", "correct": false },
+            { "text": "あね", "correct": true },
+            { "text": "し、まい", "correct": false },
+            { "text": "かき", "correct": false }
         ]
     },
     {
         "question": "妹",
         "answers": [
-            { "text": "なな", "correct": false },
-            { "text": "じゅう", "correct": false },
-            { "text": "せん", "correct": true },
-            { "text": "ひゃく", "correct": false }
+            { "text": "かき", "correct": false },
+            { "text": "あね", "correct": false },
+            { "text": "いもうと", "correct": true },
+            { "text": "おとうと", "correct": false }
         ]
     },
     {
@@ -113,16 +113,16 @@
             { "text": "きゅう", "correct": false },
             { "text": "じゅう", "correct": false },
             { "text": "まん", "correct": false },
-            { "text": "えん", "correct": true }
+            { "text": "てん", "correct": true }
         ]
     },
     {
         "question": "肉",
         "answers": [
-            { "text": "よん", "correct": false },
-            { "text": "なな", "correct": false },
-            { "text": "はち", "correct": false },
-            { "text": "えん", "correct": true }
+            { "text": "とり", "correct": false },
+            { "text": "ぶた", "correct": false },
+            { "text": "みーと", "correct": false },
+            { "text": "にく", "correct": true }
         ]
     }
     
